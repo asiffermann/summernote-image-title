@@ -113,8 +113,21 @@
                 this.showLinkDialog(imgInfo).then(function (imgInfo) {
                     ui.hideDialog(self.$dialog);
                     var $img = imgInfo.imgDom;
-                    $img.attr('alt', imgInfo.alt);
-                    $img.attr('title', imgInfo.title);
+
+                    if (imgInfo.alt) {
+                        $img.attr('alt', imgInfo.alt);
+                    }
+                    else {
+                        $img.removeAttr('alt');
+                    }
+
+                    if (imgInfo.title) {
+                        $img.attr('title', imgInfo.title);
+                    }
+                    else {
+                        $img.removeAttr('title');
+                    }
+
                     $note.val(context.invoke('code'));
                     $note.change();
                 });
