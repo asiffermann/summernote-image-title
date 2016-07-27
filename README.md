@@ -15,7 +15,13 @@ Include the following code after Summernote:
 
 #### 2. Supported languages
 
-Currently available in French, English and Korean only, contributions welcomed!
+Currently available in:
+- English
+- French
+- Korean
+- Portuguese
+
+Contributions are welcomed!
 
 #### 3. Summernote options
 
