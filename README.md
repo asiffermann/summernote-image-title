@@ -18,8 +18,8 @@ Include the following code after Summernote:
 Currently available in:
 - English
 - French
-- Korean
-- Portuguese
+- Korean (thanks to @lqez)
+- Portuguese (thanks to @parg-programador)
 
 Contributions are welcomed!
 
