@@ -31,6 +31,13 @@
                 edit: '제목 바꾸기',
                 titleLabel: '제목'
             },
+        },
+        'pt-BR': {
+            imageTitle: {
+                edit: 'Editar Título',
+                titleLabel: 'Título',
+                altLabel: 'Texto Alternativo',
+            }
         }
     });
 
