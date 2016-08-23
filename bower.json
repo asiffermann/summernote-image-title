@@ -1,0 +1,35 @@
+{
+  "name": "summernote-image-title",
+  "description": "A plugin for the Summernote WYSIWYG editor. Adds a button to the image popover to edit title and alt attributes.",
+  "main": "summernote-image-title.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "GitVersion.yml"
+  ],
+  "keywords": [
+    "summernote",
+    "image",
+    "title"
+  ],
+  "authors": [
+    { "name": "Adrien Siffermann", "email": "adrien@siffermann.me", "homepage": "http://geeklearning.io/author/adrien" }
+  ],
+  "homepage": "https://github.com/asiffermann/summernote-image-title",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/asiffermann/summernote-image-title"
+  },
+  "dependencies": {
+    "summernote": ">= 0.8.1"
+  }
+}
