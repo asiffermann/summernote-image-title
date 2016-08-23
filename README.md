@@ -20,6 +20,8 @@ Currently available in:
 - French
 - Korean (thanks to [@lqez](https://github.com/lqez))
 - Portuguese (thanks to [@parg-programador](https://github.com/parg-programador))
+- Spanish (thanks to Cristian from [Websfrits.com](http://www.websfrits.com/))
+- Català (thanks to Cristian from [Websfrits.com](http://www.websfrits.com/))
 
 Contributions are welcomed!
 

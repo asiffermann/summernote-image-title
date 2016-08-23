@@ -38,6 +38,20 @@
                 titleLabel: 'Título',
                 altLabel: 'Texto Alternativo',
             }
+        },
+        'es-ES': {
+            imageTitle: {
+                edit: 'Editar título',
+                titleLabel: 'Título',
+                altLabel: 'Texto alternativo',
+            },
+        },
+        'ca-ES': {
+            imageTitle: {
+				edit: 'Editar títol',
+				titleLabel: 'Títol',
+				altLabel: 'Text alternatiu',
+            },
         }
     });
 
