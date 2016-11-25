@@ -16,43 +16,50 @@
             imageTitle: {
                 edit: 'Edit title',
                 titleLabel: 'Title',
-                altLabel: 'Alternative Text',
+                altLabel: 'Alternative Text'
             }
         },
         'fr-FR': {
             imageTitle: {
                 edit: 'Modifier le titre',
                 titleLabel: 'Titre',
-                altLabel: 'Texte alternatif',
-            },
+                altLabel: 'Texte alternatif'
+            }
         },
         'ko-KR': {
             imageTitle: {
                 edit: '제목 바꾸기',
                 titleLabel: '제목'
-            },
+            }
         },
         'pt-BR': {
             imageTitle: {
                 edit: 'Editar Título',
                 titleLabel: 'Título',
-                altLabel: 'Texto Alternativo',
+                altLabel: 'Texto Alternativo'
             }
         },
         'es-ES': {
             imageTitle: {
                 edit: 'Editar título',
                 titleLabel: 'Título',
-                altLabel: 'Texto alternativo',
-            },
+                altLabel: 'Texto alternativo'
+            }
         },
         'ca-ES': {
             imageTitle: {
 				edit: 'Editar títol',
 				titleLabel: 'Títol',
-				altLabel: 'Text alternatiu',
-            },
-        }
+				altLabel: 'Text alternatiu'
+            }
+        },
+		'de-DE': {
+			imageTitle: {
+				edit: 'Titel bearbeiten',
+                titleLabel: 'Titel',
+                altLabel: 'ALT-Text'
+			}
+		}
     });
 
     $.extend($.summernote.plugins, {
