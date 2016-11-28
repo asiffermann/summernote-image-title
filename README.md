@@ -28,6 +28,7 @@ Currently available in:
 - Portuguese (thanks to [@parg-programador](https://github.com/parg-programador))
 - Spanish (thanks to Cristian from [Websfrits.com](http://www.websfrits.com/))
 - Català (thanks to Cristian from [Websfrits.com](http://www.websfrits.com/))
+- German (thanks to [@osworx](https://github.com/osworx))
 
 Contributions are welcomed!
 

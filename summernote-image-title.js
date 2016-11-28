@@ -48,18 +48,18 @@
         },
         'ca-ES': {
             imageTitle: {
-				edit: 'Editar títol',
-				titleLabel: 'Títol',
-				altLabel: 'Text alternatiu'
+                edit: 'Editar títol',
+                titleLabel: 'Títol',
+                altLabel: 'Text alternatiu'
             }
         },
-		'de-DE': {
-			imageTitle: {
-				edit: 'Titel bearbeiten',
+        'de-DE': {
+            imageTitle: {
+                edit: 'Titel bearbeiten',
                 titleLabel: 'Titel',
                 altLabel: 'ALT-Text'
-			}
-		}
+            }
+        }
     });
 
     $.extend($.summernote.plugins, {
