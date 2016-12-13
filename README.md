@@ -29,6 +29,7 @@ Currently available in:
 - Spanish (thanks to Cristian from [Websfrits.com](http://www.websfrits.com/))
 - Català (thanks to Cristian from [Websfrits.com](http://www.websfrits.com/))
 - German (thanks to [@osworx](https://github.com/osworx))
+- Russian (thanks to [@anton-z](https://github.com/anton-z))
 
 Contributions are welcomed!
 
