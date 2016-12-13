@@ -59,6 +59,13 @@
                 titleLabel: 'Titel',
                 altLabel: 'ALT-Text'
             }
+        },
+        'ru-RU': {
+            imageTitle: {
+                edit: 'Заголовок изображения',
+                titleLabel: 'Заголовок',
+                altLabel: 'ALT текст'
+            }
         }
     });
 
