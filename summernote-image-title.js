@@ -32,6 +32,13 @@
                 titleLabel: '제목'
             }
         },
+        'nl-NL': {
+            imageTitle: {
+                edit: 'Titel wijzigen',
+                titleLabel: 'Titel',
+                altLabel: 'Alternatieve tekst'
+            }
+        },
         'pt-BR': {
             imageTitle: {
                 edit: 'Editar Título',
