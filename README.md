@@ -30,6 +30,7 @@ Currently available in:
 - Català (thanks to Cristian from [Websfrits.com](http://www.websfrits.com/))
 - German (thanks to [@osworx](https://github.com/osworx))
 - Russian (thanks to [@anton-z](https://github.com/anton-z))
+- Dutch (thanks to [MysticEarth](https://github.com/MysticEarth))
 
 Contributions are welcomed!
 
