@@ -29,7 +29,8 @@
         'ko-KR': {
             imageTitle: {
                 edit: '제목 바꾸기',
-                titleLabel: '제목'
+                titleLabel: '제목',
+                altLabel: '대체 텍스트'
             }
         },
         'nl-NL': {
@@ -72,6 +73,13 @@
                 edit: 'Заголовок изображения',
                 titleLabel: 'Заголовок',
                 altLabel: 'ALT текст'
+            }
+        },
+        'th-TH': {
+            imageTitle: {
+                edit: 'เปลี่ยนชื่อรูปภาพ',
+                titleLabel: 'ชื่อรูปภาพ',
+                altLabel: 'รายละเอียดของรูปภาพ'
             }
         }
     });
