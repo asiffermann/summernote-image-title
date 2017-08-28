@@ -24,13 +24,14 @@ Include the following code after Summernote:
 Currently available in:
 - English
 - French
-- Korean (thanks to [@lqez](https://github.com/lqez))
+- Korean (thanks to [@lqez](https://github.com/lqez) and [@pincoin](https://github.com/pincoin))
 - Portuguese (thanks to [@parg-programador](https://github.com/parg-programador))
 - Spanish (thanks to Cristian from [Websfrits.com](http://www.websfrits.com/))
 - Català (thanks to Cristian from [Websfrits.com](http://www.websfrits.com/))
 - German (thanks to [@osworx](https://github.com/osworx))
 - Russian (thanks to [@anton-z](https://github.com/anton-z))
 - Dutch (thanks to [MysticEarth](https://github.com/MysticEarth))
+- Thai (thanks to [@pincoin](https://github.com/pincoin))
 
 Contributions are welcomed!
 
