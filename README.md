@@ -7,7 +7,11 @@ Adds a button to the image popover to edit title and alt attributes.
 
 #### 1. Include JS
 
-This plugin is available on Bower:
+This plugin is available on NPM or Bower:
+
+```
+npm install summernote-image-title --save
+```
 
 ```
 bower install summernote-image-title --save
