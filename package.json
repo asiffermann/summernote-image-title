@@ -1,0 +1,9 @@
+{
+  "name": "summernote-image-title",
+  "version": "0.1.4",
+  "description": "Adds a button to the image popover to edit title and alt attributes.",
+  "main": "summernote-image-title.js",
+  "repository": "https://github.com/asiffermann/summernote-image-title",
+  "author": "Galo asiffermann",
+  "license": "MIT"
+}
