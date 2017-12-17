@@ -26,6 +26,13 @@
                 altLabel: 'Texte alternatif'
             }
         },
+        'ja-JP': {
+            imageTitle: {
+                edit: 'タイトルを編集',
+                titleLabel: 'タイトル',
+                altLabel: '代替テキスト'
+            }
+        },
         'ko-KR': {
             imageTitle: {
                 edit: '제목 바꾸기',
