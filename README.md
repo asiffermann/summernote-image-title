@@ -36,6 +36,7 @@ Currently available in:
 - Russian (thanks to [@anton-z](https://github.com/anton-z))
 - Dutch (thanks to [MysticEarth](https://github.com/MysticEarth))
 - Thai (thanks to [@pincoin](https://github.com/pincoin))
+- Japanese (thanks to [@cmonos](https://github.com/cmonos))
 
 Contributions are welcomed!
 
