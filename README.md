@@ -37,6 +37,7 @@ Currently available in:
 - Dutch (thanks to [MysticEarth](https://github.com/MysticEarth))
 - Thai (thanks to [@pincoin](https://github.com/pincoin))
 - Japanese (thanks to [@cmonos](https://github.com/cmonos))
+- Traditional Chinese (thanks to [@SuYiLun41](https://github.com/SuYiLun41))
 
 Contributions are welcomed!
 

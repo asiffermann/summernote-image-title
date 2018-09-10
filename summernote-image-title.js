@@ -88,6 +88,13 @@
                 titleLabel: 'ชื่อรูปภาพ',
                 altLabel: 'รายละเอียดของรูปภาพ'
             }
+        },
+        'zh-TW': {
+            imageTitle: {
+                edit: '編輯',
+                titleLabel: '圖片標題',
+                altLabel: '圖片替代文字'
+            }
         }
     });
 
