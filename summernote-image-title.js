@@ -95,7 +95,14 @@
                 titleLabel: '圖片標題',
                 altLabel: '圖片替代文字'
             }
-        }
+        },
+	'ar-Ar': {
+            imageTitle: {
+                edit: 'عدل العنوان',
+                titleLabel: 'العنوان',
+                altLabel: 'النص البديل'
+            }
+	}
     });
 
     $.extend($.summernote.plugins, {
