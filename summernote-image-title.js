@@ -96,13 +96,13 @@
                 altLabel: '圖片替代文字'
             }
         },
-	'ar-Ar': {
+	    'ar-Ar': {
             imageTitle: {
                 edit: 'عدل العنوان',
                 titleLabel: 'العنوان',
                 altLabel: 'النص البديل'
             }
-	}
+	    }
     });
 
     $.extend($.summernote.plugins, {

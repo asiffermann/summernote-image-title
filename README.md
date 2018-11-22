@@ -38,6 +38,7 @@ Currently available in:
 - Thai (thanks to [@pincoin](https://github.com/pincoin))
 - Japanese (thanks to [@cmonos](https://github.com/cmonos))
 - Traditional Chinese (thanks to [@SuYiLun41](https://github.com/SuYiLun41))
+- Arabic (thanks to [@abdulrahman19](https://github.com/abdulrahman19))
 
 Contributions are welcomed!
 
