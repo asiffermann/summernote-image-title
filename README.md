@@ -68,5 +68,6 @@ $(document).ready(function() {
 
 ### Example
 
-You can see a working example [here](http://codepen.io/asiffermann/pen/EKvMMm).
-
+You can see working pens here:
+- [Summernote 0.8.11 / Bootstrap 3.3.6](http://codepen.io/asiffermann/pen/EKvMMm)
+- [Summernote 0.8.11 / Bootstrap 4.1.3](http://codepen.io/asiffermann/pen/XorJOB)

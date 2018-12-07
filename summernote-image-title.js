@@ -129,6 +129,7 @@
                 var button = ui.button({
                     contents: ui.icon(options.icons.pencil),
                     tooltip: lang.imageTitle.edit,
+                    container: false,
                     click: function (e) {
                         context.invoke('imageTitle.show');
                     }
