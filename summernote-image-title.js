@@ -102,7 +102,14 @@
                 titleLabel: 'العنوان',
                 altLabel: 'النص البديل'
             }
-	    }
+	    },
+        'fa-IR': {
+            imageTitle: {
+                edit: 'ویرایش عنوان',
+                titleLabel: 'عنوان',
+                altLabel: 'متن جایگزین'
+            }
+        }
     });
 
     $.extend($.summernote.plugins, {
