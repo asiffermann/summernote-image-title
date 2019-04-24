@@ -39,6 +39,7 @@ Currently available in:
 - Japanese (thanks to [@cmonos](https://github.com/cmonos))
 - Traditional Chinese (thanks to [@SuYiLun41](https://github.com/SuYiLun41))
 - Arabic (thanks to [@abdulrahman19](https://github.com/abdulrahman19))
+- Persian (thanks to [@kiaksarg](https://github.com/kiaksarg))
 
 Contributions are welcomed!
 

@@ -96,13 +96,13 @@
                 altLabel: '圖片替代文字'
             }
         },
-	    'ar-Ar': {
+        'ar-Ar': {
             imageTitle: {
                 edit: 'عدل العنوان',
                 titleLabel: 'العنوان',
                 altLabel: 'النص البديل'
             }
-	    },
+        },
         'fa-IR': {
             imageTitle: {
                 edit: 'ویرایش عنوان',
@@ -149,15 +149,15 @@
                 var $container = options.dialogsInBody ? $(document.body) : $editor;
 
                 var body = '<div class="form-group">' +
-                             '<label>' + lang.imageTitle.titleLabel + '</label>' +
-                             '<input class="note-image-title-text form-control" type="text" />' +
-                           '</div>';
+                    '<label>' + lang.imageTitle.titleLabel + '</label>' +
+                    '<input class="note-image-title-text form-control" type="text" />' +
+                    '</div>';
 
                 if (options.imageTitle.specificAltField) {
                     body += '<div class="form-group">' +
-                               '<label>' + lang.imageTitle.altLabel + '</label>' +
-                               '<input class="note-image-alt-text form-control" type="text" />' +
-                             '</div>';
+                        '<label>' + lang.imageTitle.altLabel + '</label>' +
+                        '<input class="note-image-alt-text form-control" type="text" />' +
+                        '</div>';
                 }
 
                 var footer = '<button href="#" class="btn btn-primary note-image-title-btn">' + lang.imageTitle.edit + '</button>';
