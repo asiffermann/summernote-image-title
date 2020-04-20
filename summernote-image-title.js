@@ -109,7 +109,14 @@
                 titleLabel: 'عنوان',
                 altLabel: 'متن جایگزین'
             }
-        }
+        },
+        'ro-RO': {
+            imageTitle: {
+                edit: 'Editează titlu',
+                titleLabel: 'Titlu',
+                altLabel: 'ALT-Text'
+            }
+        },
     });
 
     $.extend($.summernote.plugins, {
