@@ -40,6 +40,7 @@ Currently available in:
 - Traditional Chinese (thanks to [@SuYiLun41](https://github.com/SuYiLun41))
 - Arabic (thanks to [@abdulrahman19](https://github.com/abdulrahman19))
 - Persian (thanks to [@kiaksarg](https://github.com/kiaksarg))
+- Romanian (thanks to [@totpero](https://github.com/totpero))
 
 Contributions are welcomed!
 

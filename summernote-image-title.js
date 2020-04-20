@@ -116,7 +116,7 @@
                 titleLabel: 'Titlu',
                 altLabel: 'ALT-Text'
             }
-        },
+        }
     });
 
     $.extend($.summernote.plugins, {
