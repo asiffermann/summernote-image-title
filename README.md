@@ -41,6 +41,7 @@ Currently available in:
 - Arabic (thanks to [@abdulrahman19](https://github.com/abdulrahman19))
 - Persian (thanks to [@kiaksarg](https://github.com/kiaksarg))
 - Romanian (thanks to [@totpero](https://github.com/totpero))
+- Turkish (thanks to [@beratkara](https://github.com/beratkara))
 
 Contributions are welcomed!
 
