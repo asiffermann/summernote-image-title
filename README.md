@@ -3,6 +3,9 @@ A plugin for the [Summernote](https://github.com/summernote/summernote/) WYSIWYG
 
 Adds a button to the image popover to edit title and alt attributes.
 
+[![npm version](https://badge.fury.io/js/summernote-image-title.svg)](http://badge.fury.io/js/summernote-image-title)
+[![Bower version](https://badge.fury.io/bo/summernote-image-title.svg)](https://badge.fury.io/bo/summernote-image-title)
+
 ### Installation
 
 #### 1. Include JS
@@ -72,5 +75,5 @@ $(document).ready(function() {
 ### Example
 
 You can see working pens here:
-- [Summernote 0.8.11 / Bootstrap 3.3.6](http://codepen.io/asiffermann/pen/EKvMMm)
-- [Summernote 0.8.11 / Bootstrap 4.1.3](http://codepen.io/asiffermann/pen/XorJOB)
+- [Summernote 0.8.18 / Bootstrap 3.4.1](http://codepen.io/asiffermann/pen/EKvMMm?editors=1010)
+- [Summernote 0.8.18 / Bootstrap 4.6.0](http://codepen.io/asiffermann/pen/XorJOB?editors=1010)
