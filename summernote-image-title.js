@@ -116,7 +116,14 @@
                 titleLabel: 'Titlu',
                 altLabel: 'ALT-Text'
             }
-        }
+        },
+        'tr-TR': {
+            imageTitle: {
+                edit: 'Başlığı düzenleyin',
+                titleLabel: 'Başlık',
+                altLabel: 'Alt Etiketi'
+            }
+        },
     });
 
     $.extend($.summernote.plugins, {
